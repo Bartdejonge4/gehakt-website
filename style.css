@@ -1,0 +1,61 @@
+.h1 {
+  	font-size: 36px;
+	line-height: 36px;
+}
+.inleiding{
+	font-size: 20px;
+	line-height: 26px;
+
+}
+.h2{
+	font-size: 24px;
+	line-height: 32px;
+
+}
+.h3{
+	font-size:32px;
+	line-height: 32px;
+}
+.margewebsite{
+  width: 900px;
+  margin: 0 auto; 
+  font-family: Roboto
+}
+.menu {
+	overflow: hidden;
+	margin: 0;
+    background-color: #dddddd;
+    line-height: 30px;
+    display: block;
+}
+.tekst { 
+	font-size: 20px;
+	line-height: 26px;
+
+}
+ul {
+	font-size: 20px;
+	line-height: 26px;
+
+}
+ol {
+	font-size: 20px;
+	line-height: 26px;
+
+}
+.Tip{
+	background-color: #def6ed;
+	font-size: 20px;
+	width: 900px;
+    margin: 0 auto; 
+    line-height: 30px;
+    padding: 20px;
+}
+.tip2 {
+	background-color: #def6ed;
+	font-size: 20px;
+	width: 900px;
+    margin: 0 auto; 
+    line-height: 30px;
+
+}
